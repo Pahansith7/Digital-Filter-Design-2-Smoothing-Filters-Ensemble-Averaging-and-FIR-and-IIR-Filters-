@@ -1,4 +1,4 @@
-# Bio-Signal Processing Project
+# Digital Filter Designing
 
 ---
 
