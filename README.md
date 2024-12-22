@@ -18,6 +18,7 @@ signal 𝑦(𝑛) is derived from the average of the windowed points on the inpu
 This project focuses on,
   - Implementing MA filters and comparing their performance with varying orders.
   - The impact of the filter order on noise reduction and signal distortion(group delay) is analyzed.
+![image](https://github.com/user-attachments/assets/0b95e12a-0747-4653-afa8-a809bf84b3d4)
 
 - **Savitzky-Golay (SG) Filter:**
 Savitzky-Golay filter fits a polynomial of order 𝑁 to an odd number of data points 𝐿′ = 2𝐿 + 1 
@@ -26,6 +27,7 @@ requires 𝑁 ≤ 𝐿′ − 1.
 In this project I have covered,
   - Application and parameter optimization(N and L) for better smoothing.
   - Comparative analysis with MA filters.
+![image](https://github.com/user-attachments/assets/a99d623a-fbb1-4cfc-ba5d-b585103ad6d6)
 
 ### 2. Ensemble Averaging
 In the case of overlapping signal and noise spectra, the synchronized averaging technique is an effective and a simple method for noise removal with minimal signal distortions. However, for synchronized averaging to be applicable, there should be input data either having multiple measurements (e.g. EPs) or one signal having repetitive patterns (e.g. ECG). 
