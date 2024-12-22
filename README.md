@@ -18,7 +18,7 @@ signal 𝑦(𝑛) is derived from the average of the windowed points on the inpu
 The filter output is given by the equation:
 
 ```
-𝑦(𝑛) = 1/N ∑𝑘=0→𝑁−1 𝑥(𝑛−𝑘)
+\[ y(n) = \frac{1}{N} \sum_{k=0}^{N-1} x(n-k) \]
 
 ```
   - Implementing MA filters and comparing their performance with varying orders.
