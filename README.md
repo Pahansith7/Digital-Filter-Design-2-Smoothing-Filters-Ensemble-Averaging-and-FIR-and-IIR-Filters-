@@ -20,7 +20,6 @@ signal 𝑦(𝑛) is derived from the average of the windowed points on the inpu
   - The impact of the filter order on noise reduction and signal distortion(group delay) is analyzed.
 
 - **Savitzky-Golay (SG) Filter:**
-
 Savitzky-Golay filter fits a polynomial of order 𝑁 to an odd number of data points 𝐿′ = 2𝐿 + 1 
 (where 𝐿′ is an odd integer) in a predefined window in a least-squares sense. A unique solution 
 requires 𝑁 ≤ 𝐿′ − 1. 
