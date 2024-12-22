@@ -15,12 +15,7 @@ One of the most common signal processing tasks is smoothing of the data to reduc
 - **Moving Average (MA) Filter:**
 MA(N) filter can be visualized as a moving window across the signal. A point of the filtered 
 signal 𝑦(𝑛) is derived from the average of the windowed points on the input signal 𝑥(𝑛).
-The filter output is given by the equation:
 
-```
-\[ y(n) = \frac{1}{N} \sum_{k=0}^{N-1} x(n-k) \]
-
-```
   - Implementing MA filters and comparing their performance with varying orders.
   - The impact of the filter order on noise reduction and signal distortion(group delay) is analyzed.
 
