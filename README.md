@@ -33,19 +33,24 @@ In this project I have covered,
 In the case of overlapping signal and noise spectra, the synchronized averaging technique is an effective and a simple method for noise removal with minimal signal distortions. However, for synchronized averaging to be applicable, there should be input data either having multiple measurements (e.g. EPs) or one signal having repetitive patterns (e.g. ECG). 
 This project covers,
 - Application of ensemble averaging on noisy ECG signals to improve SNR (This is an example for how to use ensembling average to improve SNR of the signals with repetitive patterns ).
+![image](https://github.com/user-attachments/assets/5ab12e02-8448-4774-bd45-292dca8a3661)
 - Use of multiple measurments of Auditory Brain Responses(ABR) to improve SNR.
+![image](https://github.com/user-attachments/assets/3cc3c284-162f-467f-a0d6-63be9f914645)
 
 ### 3. FIR Filter Design
 Under the context of FIR filter design the project aims,
 - Characteristics analysis of different window functions(rectangular, Hanning, Hamming and Blackman ).
+![image](https://github.com/user-attachments/assets/6afc7ae8-ae01-4549-acf3-68e70d66937b)
 - FIR filter implementation using Kaiser windows.
 - Design of comb filters to target specific frequencies (50 Hz, 100 Hz, 150 Hz).
+![image](https://github.com/user-attachments/assets/b9da7497-bf4c-4dfd-9117-e45dc571e0d0)
 
 ### 4. IIR Filters
 Similar to FIR filter design project also covers,
 - Realization and application of IIR filters.
 - Comparison with FIR filters regarding noise suppression, group delay, and frequency response.
 - Forward and backward filtering techniques for phase distortion reduction.
+![image](https://github.com/user-attachments/assets/3953c0fd-f4b5-41b0-b25e-fe045ae39934)
 
 ---
 
