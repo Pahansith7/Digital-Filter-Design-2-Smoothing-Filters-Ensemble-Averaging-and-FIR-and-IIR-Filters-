@@ -47,7 +47,6 @@ In the case of overlapping signal and noise spectra, the synchronized averaging 
 ---
 
 ## Acknowledgments
-This project was completed as part of the **BM4152 Bio-Signal Processing** course under the guidance of faculty members at the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
-
+This project was completed as part of the **BM4152 Bio-Signal Processing** course.
 ---
 
