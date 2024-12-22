@@ -7,7 +7,7 @@ This project is an in-depth study of bio-signal processing, specifically focusin
 
 ---
 
-## COntents
+## Contents
 
 ### 1. Smoothing Filters
 One of the most common signal processing tasks is smoothing of the data to reduce high frequency noise arising from electromagnetic interferences, quantization errors and from peripheral physiological signals. Here, the application of moving average filters of order N (MA(N)) and Savitzky-Golay filters of order N and length L’=2L+1 (SG(N,L)) is explored.
